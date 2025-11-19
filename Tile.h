@@ -2,8 +2,6 @@
 #include <SDL2/SDL_image.h>
 #include <SDL2/SDL_ttf.h>
 
-#include "Colors.h"
-
 #define TILE_SIZE 32
 
 enum{
