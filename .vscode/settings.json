@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "*.cs": "csharp",
+        "sdl.h": "c"
+    }
+}
